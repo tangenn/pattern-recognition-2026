@@ -26,3 +26,5 @@ results/
 
 # VSCode config (optional)
 .vscode/
+
+anaconda_projects/
